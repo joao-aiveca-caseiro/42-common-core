@@ -1,6 +1,6 @@
 # 42 Common Core Projects
 
-The common core of 42 School's curriculum tackles a wide variety of themes, from the reproduction of standard library functions to the implementation of algorithms, 3d rendering and web servers.
+The common core of [42 School's](https://www.42lisboa.com/en/) curriculum tackles a wide variety of themes, from the reproduction of standard library functions to the implementation of algorithms, 3d rendering and web servers.
 The projects are divided in 7 ranks of increasing complexity. Each rank also contains a mandatory exam, where skills acquired on the previous rank are put into practice by solving exercises on a time limit.
 
 ### Note for 42 students
