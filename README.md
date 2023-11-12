@@ -36,3 +36,4 @@ Each time you cheat, bear in mind there's someone else who could have gotten you
 - [C++ Module 05](https://github.com/joao-aiveca-caseiro/cpp_05) - Introduction to **exceptions and try-catch blocks**.
 - [C++ Module 06](https://github.com/joao-aiveca-caseiro/cpp_06) - Introduction to **casting in C++**.
 - [C++ Module 07](https://github.com/joao-aiveca-caseiro/cpp_07) - Introduction to **function and class templates**.
+- [C++ Module 08](https://github.com/joao-aiveca-caseiro/cpp_08) - Introduction to **STL containers and algorithms**.
